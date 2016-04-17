@@ -1,0 +1,30 @@
+.dropdown:hover .dropdown-menu {
+display: block;
+}
+.navbar {
+  border-radius: 0;
+  margin-bottom: 0;
+  border: 0;
+  .nav {
+    li {
+      font-weight: lighter;
+      text-transform: uppercase;
+      color: $grey;
+      &.nav-date{
+        line-height: 50px;
+        font-size: 2rem;
+        color: $teal;
+      }
+    }
+  }
+
+}
+.navbar-brand {
+  padding: 0;
+  padding-top: 6px;
+  padding-left: 10px;
+  padding-right: 25px;
+  img {
+    max-width: 300px;
+  }
+}
