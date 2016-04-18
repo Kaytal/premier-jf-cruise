@@ -1,3 +1,15 @@
+.front-image{
+  position: relative;
+  video {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 43%;
+    left: 50%;
+    width: 25%;
+    z-index: -1;
+  }
+}
+
 #front-page{
   padding: 0;
   .front-content{
@@ -18,23 +30,6 @@
     padding-right: 25px;
     font-size: 2rem;
     font-weight: lighter;
-  }
-  .social-share{
-    background-color: $teal;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    a {
-      color: white;
-      i {
-        padding-left: 15px;
-        padding-right: 15px;
-        font-size: 2rem;
-        color: white;
-      }
-    }
-    p {
-      margin-bottom: 0;
-    }
   }
 }
 

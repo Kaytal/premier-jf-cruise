@@ -1,0 +1,46 @@
+.social-share{
+  background-color: $teal;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  a {
+    color: white;
+    i {
+      padding-left: 15px;
+      padding-right: 15px;
+      font-size: 2rem;
+      color: white;
+    }
+  }
+  p {
+    margin-bottom: 0;
+  }
+}
+footer{
+  &.content-info{
+    background-color: $darkteal;
+    .col-sm-2 {
+      ul {
+        padding: 0;
+        margin: 0;
+        li {
+          list-style-type: none;
+          padding: 15px 0;
+          margin: 0;
+          font-weight: lighter;
+          a {
+            color: white;
+            font-weight: lighter;
+            font-size: .9em;
+          }
+        }
+      }
+      h2 {
+        font-size: 1em;
+        text-transform: uppercase;
+        font-weight: lighter;
+        color: white;
+        letter-spacing: 2px;
+      }
+    }
+  }
+}

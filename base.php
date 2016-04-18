@@ -20,14 +20,9 @@ use Roots\Sage\Wrapper;
     ?>
     <div class="wrap" role="document">
       <div class="content">
-        <main class="main" id="<?php echo $post->post_name ?>">
+        <main <?php if (is_front_page()) echo 'id="front-page"' ?>>
           <?php include Wrapper\template_path(); ?>
         </main><!-- /.main -->
-        <?php if (Setup\display_sidebar()) : ?>
-          <aside class="sidebar">
-            <?php include Wrapper\sidebar_path(); ?>
-          </aside><!-- /.sidebar -->
-        <?php endif; ?>
       </div><!-- /.content -->
     </div><!-- /.wrap -->
     <?php

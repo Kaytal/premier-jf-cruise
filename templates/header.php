@@ -15,58 +15,57 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li><a href="#">Home</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">The Event<span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">The Event</a>
           <ul class="dropdown-menu">
-            <li><a href="#">The Experience</a></li>
-            <li><a href="#">Itinerary</a></li>
-            <li><a href="#">The Ship</a></li>
-            <li><a href="#">Singles Ministry</a></li>
-            <li><a href="#">Ports of Call</a></li>
-            <li><a href="#">Teen/Children</a></li>
+            <li><a href="#">Event Details</a></li>
+            <li><a href="#">Ports</a></li>
+            <li><a href="#">Onboard Activities</a></li>
+            <li><a href="#">Videos</a></li>
           </ul>
         </li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Entertainment<span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">The Line-Up</a>
           <ul class="dropdown-menu">
-            <li><a href="#">Steven Curtis Chapman</a></li>
-            <li><a href="#">Crowder</a></li>
-            <li><a href="#">For King &amp; Country</a></li>
+            <li><a href="#">dcTalk</a></li>
+            <li><a href="#">TobyMac and Diverse City</a></li>
             <li><a href="#">Newsboys</a></li>
-            <li><a href="#">Jeremy Camp</a></li>
-            <li><a href="#">Rend Collective</a></li>
-            <li><a href="#">Big Daddy Weave</a></li>
-            <li><a href="#">Building 429</a></li>
-            <li><a href="#">Josh Wilson</a></li>
-            <li><a href="#">Francesca Battistelli</a></li>
+            <li><a href="#">More to come</a></li>
           </ul>
         </li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Before You Board<span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pricing</a>
           <ul class="dropdown-menu">
-            <li><a href="#">Action</a></li>
-            <li><a href="#">Another action</a></li>
-            <li><a href="#">Something else here</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">Separated link</a></li>
-            <li role="separator" class="divider"></li>
-            <li><a href="#">One more separated link</a></li>
+            <li><a href="#">Pricing and Availability</a></li>
+            <li><a href="#">Payment Options</a></li>
+            <li><a href="#">What's Included</a></li>
+            <li><a href="#">How to Book</a></li>
+            <li><a href="#">Travel Insurance</a></li>
+            <li><a href="#">Roommate Finder</a></li>
+            <li><a href="#">Book Now</a></li>
           </ul>
         </li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">FAQ<span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">The Ship</a>
           <ul class="dropdown-menu">
-            <li><a href="#">The Experience</a></li>
-            <li><a href="#">Itinerary</a></li>
-            <li><a href="#">The Ship</a></li>
-            <li><a href="#">Singles Ministry</a></li>
-            <li><a href="#">Ports of Call</a></li>
-            <li><a href="#">Teen/Children</a></li>
+            <li><a href="#">Staterooms</a></li>
+            <li><a href="#">Dining</a></li>
+            <li><a href="#">Concert Venues</a></li>
+            <li><a href="#">Public Areas</a></li>
+            <li><a href="#">Deck Plans</a></li>
           </ul>
         </li>
-        <li><a href="#">Roomate Finder</a></li>
-        <li><a href="#">Pricing</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">FAQ</a>
+          <ul class="dropdown-menu">
+            <li><a href="#">Top Questions</a></li>
+            <li><a href="#">Before You Book</a></li>
+            <li><a href="#">Pre-Cruise Details</a></li>
+            <li><a href="#">Once On-Board</a></li>
+            <li><a href="#">About Premier</a></li>
+          </ul>
+        </li>
+        <li><a href="#">Contact</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li class="nav-date">January 14-18th 2017</li>
