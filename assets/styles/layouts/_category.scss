@@ -1,5 +1,11 @@
 .tabbable {
   .nav{
+    .nav-stacked {
+      @media (min-width: 768px){
+        left: 0;
+        width: 25%;
+      }
+    }
     li {
       margin-top: 0;
       font-size: 2em;
@@ -18,5 +24,38 @@
         }
       }
     }
+  }
+  .tab-content{
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+    @media (min-width: 768px){
+      border-left: 2px solid $darkteal
+    }
+    p {
+      font-size: 1.3em;
+    }
+    table {
+      margin-left: auto;
+      margin-right: auto;
+      border: 0;
+      td {
+        font-size: 1.3em;
+        padding: 10px;
+        border: 0
+      }
+    }
+  }
+}
+.single-cat-post {
+  h1 {
+    font-size: 2.3em;
+    font-weight: 300;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: $red;
+  }
+  h2 {
+    font-weight: 300;
+    font-size: 2em;
   }
 }

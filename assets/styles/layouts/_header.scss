@@ -1,5 +1,20 @@
 .dropdown:hover .dropdown-menu {
-display: block;
+  @media (min-width: 768px){
+    display: block;
+  }
+}
+.dropdown-menu {
+  border: 0;
+}
+.dropdown-menu>li>a {
+  color: $grey;
+  padding: 10px 20px;
+  &:hover {
+    color: $red;
+  }
+}
+.nav .open>a, .nav .open>a:focus, .nav .open>a:hover{
+  background-color: transparent;
 }
 .navbar {
   border-radius: 0;
@@ -7,7 +22,6 @@ display: block;
   border: 0;
   .nav {
     li {
-      font-weight: lighter;
       text-transform: uppercase;
       color: $grey;
       &.nav-date{
@@ -30,5 +44,12 @@ display: block;
   padding-right: 25px;
   img {
     max-width: 300px;
+    @media (max-width: 767px){
+      max-width: 250px;
+    }
   }
+}
+
+.navbar-toggle .icon-bar{
+  background-color: $teal
 }
