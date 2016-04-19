@@ -18,29 +18,29 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">The Event</a>
           <ul class="dropdown-menu">
-            <li><a href="#">Event Details</a></li>
-            <li><a href="#">Ports</a></li>
-            <li><a href="#">Onboard Activities</a></li>
-            <li><a href="#">Videos</a></li>
+            <li><a href="/category/the-event#event-details">Event Details</a></li>
+            <li><a href="/category/the-event#ports">Ports</a></li>
+            <li><a href="/category/the-event#onboard-activities">Onboard Activities</a></li>
+            <li><a href="/category/the-event#videos">Videos</a></li>
           </ul>
         </li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">The Line-Up</a>
           <ul class="dropdown-menu">
-            <li><a href="#">dcTalk</a></li>
-            <li><a href="#">TobyMac and Diverse City</a></li>
-            <li><a href="#">Newsboys</a></li>
-            <li><a href="#">More to come</a></li>
+            <li><a href="/category/the-lineup#dctalk">dcTalk</a></li>
+            <li><a href="/category/the-lineup#tobymac-and-diverse-city">TobyMac and Diverse City</a></li>
+            <li><a href="/category/the-lineup#newsboys">Newsboys</a></li>
+            <li><a href="/category/the-lineup#more-to-come">More to come</a></li>
           </ul>
         </li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Pricing</a>
           <ul class="dropdown-menu">
-            <li><a href="#">Pricing and Availability</a></li>
-            <li><a href="#">Payment Options</a></li>
-            <li><a href="#">What's Included</a></li>
-            <li><a href="#">How to Book</a></li>
-            <li><a href="#">Travel Insurance</a></li>
+            <li><a href="/category/pricing#pricing-and-availability">Pricing and Availability</a></li>
+            <li><a href="/category/pricing#payment-options">Payment Options</a></li>
+            <li><a href="/category/pricing#whats-included">What's Included</a></li>
+            <li><a href="/category/pricing#how-to-book">How to Book</a></li>
+            <li><a href="/category/pricing#travel-insurance">Travel Insurance</a></li>
             <li><a href="#">Roommate Finder</a></li>
             <li><a href="#">Book Now</a></li>
           </ul>
@@ -48,24 +48,24 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">The Ship</a>
           <ul class="dropdown-menu">
-            <li><a href="#">Staterooms</a></li>
-            <li><a href="#">Dining</a></li>
-            <li><a href="#">Concert Venues</a></li>
-            <li><a href="#">Public Areas</a></li>
-            <li><a href="#">Deck Plans</a></li>
+            <li><a href="/category/the-ship#staterooms">Staterooms</a></li>
+            <li><a href="/category/the-ship#dining">Dining</a></li>
+            <li><a href="/category/the-ship#concert-venues">Concert Venues</a></li>
+            <li><a href="/category/the-ship#public-areas">Public Areas</a></li>
+            <li><a href="/category/the-ship#deck-plans">Deck Plans</a></li>
           </ul>
         </li>
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">FAQ</a>
           <ul class="dropdown-menu">
-            <li><a href="#">Top Questions</a></li>
-            <li><a href="#">Before You Book</a></li>
-            <li><a href="#">Pre-Cruise Details</a></li>
-            <li><a href="#">Once On-Board</a></li>
-            <li><a href="#">About Premier</a></li>
+            <li><a href="/category/faq#top-questions">Top Questions</a></li>
+            <li><a href="/category/faq#before-you-book">Before You Book</a></li>
+            <li><a href="/category/faq#pre-cruise-details">Pre-Cruise Details</a></li>
+            <li><a href="/category/faq#once-on-board">Once On-Board</a></li>
+            <li><a href="/category/faq#about-premier">About Premier</a></li>
           </ul>
         </li>
-        <li><a href="#">Contact</a></li>
+        <li><a href="/contact">Contact</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li class="nav-date">January 14-18th 2017</li>

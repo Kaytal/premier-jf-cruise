@@ -1,3 +1,7 @@
+h1 {
+  font-size: 3em;
+  color: $darkteal;
+}
 .tabbable {
   .nav{
     .nav-stacked {
@@ -43,6 +47,9 @@
         padding: 10px;
         border: 0
       }
+    }
+    hr {
+      border-top: 2px solid $darkteal
     }
   }
 }

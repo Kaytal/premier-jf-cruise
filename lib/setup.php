@@ -107,3 +107,5 @@ function assets() {
   wp_enqueue_script('jesus_freak_custom', Assets\asset_path('scripts/custom.js'), ['jquery'], '1.0', true);
 }
 add_action('wp_enqueue_scripts', __NAMESPACE__ . '\\assets', 100);
+
+add_filter('show_admin_bar', '__return_false');

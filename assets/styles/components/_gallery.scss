@@ -1,0 +1,42 @@
+.gallery-item {
+  .wp-caption-text {
+    text-align: center;
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+  }
+}
+
+.gallery-columns-2{
+  .gallery-item{
+    width: 50%;
+    display: inline-block;
+    @media(max-width: 767px){
+      width: 100%;
+      display: inline-block;
+    }
+  }
+}
+.gallery-columns-3{
+  .gallery-item{
+    width: 33.333333%;
+    display: inline-block;
+    @media(max-width: 767px){
+      width: 100%;
+      display: inline-block;
+    }
+  }
+}
+.gallery-columns-4{
+  .gallery-item{
+    width: 25%;
+    display: inline-block;
+    @media(max-width: 767px){
+      width: 100%;
+      display: inline-block;
+    }
+  }
+}

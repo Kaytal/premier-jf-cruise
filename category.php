@@ -2,8 +2,13 @@
 <h1 class="text-center"><?php single_cat_title(); ?></h1>
 
 <?php $cat_id=get_query_var('cat'); ?>
-
-<?php $catPost = get_posts('cat=<?php $cat_id ?>&posts_per_page=-1'); ?>
+<?php $args = array(
+    'posts_per_page'   => -1,
+    'category'         => $cat_id,
+    'post_type'        => 'post',
+    'post_status'      => 'publish'
+  );?>
+<?php $catPost = get_posts($args); ?>
 <?php $i = 0 ?>
 <div class="tabbable">
   <div class="col-md-3">
