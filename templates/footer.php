@@ -35,8 +35,8 @@
         <li><a href="/category/pricing#whats-included">What's Included</a></li>
         <li><a href="/category/pricing#how-to-book">How to Book</a></li>
         <li><a href="/category/pricing#travel-insurance">Travel Insurance</a></li>
-        <li><a href="/category/pricing#roomate-finder">Roommate Finder</a></li>
-        <li><a href="https://reservations.premier-experience.com/Booking/Reservation/Start?tripID=2988">Book Now</a></li>
+        <li><a href="http://www.premier-experience.com/roommates" target="_blank">Roommate Finder</a></li>
+        <li><a href="https://reservations.premier-experience.com/Booking/Reservation/Start?tripID=2988" target="_blank">Book Now</a></li>
       </ul>
     </div>
     <div class="col-sm-2">

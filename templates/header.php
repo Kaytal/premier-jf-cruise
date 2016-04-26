@@ -41,8 +41,8 @@
             <li><a href="/category/pricing#whats-included">What's Included</a></li>
             <li><a href="/category/pricing#how-to-book">How to Book</a></li>
             <li><a href="/category/pricing#travel-insurance">Travel Insurance</a></li>
-            <li><a href="#">Roommate Finder</a></li>
-            <li><a href="https://reservations.premier-experience.com/Booking/Reservation/Start?tripID=2988">Book Now</a></li>
+            <li><a href="http://www.premier-experience.com/roommates" target="_blank">Roommate Finder</a></li>
+            <li><a href="https://reservations.premier-experience.com/Booking/Reservation/Start?tripID=2988" target="_blank">Book Now</a></li>
           </ul>
         </li>
         <li class="dropdown">
@@ -68,7 +68,7 @@
         <li><a href="/contact">Contact</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li class="nav-date">January 14-18th 2017</li>
+        <li class="nav-date">July 14-18th 2017</li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
