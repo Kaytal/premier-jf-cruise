@@ -42,7 +42,7 @@
             <li><a href="/category/pricing#how-to-book">How to Book</a></li>
             <li><a href="/category/pricing#travel-insurance">Travel Insurance</a></li>
             <li><a href="#">Roommate Finder</a></li>
-            <li><a href="#">Book Now</a></li>
+            <li><a href="https://reservations.premier-experience.com/Booking/Reservation/Start?tripID=2988">Book Now</a></li>
           </ul>
         </li>
         <li class="dropdown">
