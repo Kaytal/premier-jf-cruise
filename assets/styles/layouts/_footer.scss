@@ -15,6 +15,14 @@
     margin-bottom: 0;
   }
 }
+.instagram-feed {
+  overflow: hidden;
+  margin-bottom: -6px;
+}
+.img-center{
+  margin-left: auto;
+  margin-right: auto;
+}
 footer{
   &.content-info{
     background-color: $darkteal;

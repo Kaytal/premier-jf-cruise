@@ -1,0 +1,10 @@
+curl -F 'client_id=b79ef42a887b484097bc17d81197da4d' \
+-F 'client_secret=17d757a29da74207932cbb17cf74aa7d' \
+-F 'grant_type=authorization_code' \
+-F 'redirect_uri=http://www.jesusfreakcruise.com' \
+-F 'code=492c43755c734132a0bd27a21f7ad7a1' \
+https://api.instagram.com/oauth/access_token
+
+219769686.b79ef42.c1e5679f73e140b4982db1a91e5b984b
+
+219769686.b79ef42.c1e5679f73e140b4982db1a91e5b984b

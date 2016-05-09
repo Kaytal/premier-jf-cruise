@@ -28,9 +28,13 @@
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">The Line-Up</a>
           <ul class="dropdown-menu">
             <li><a href="/category/the-lineup#dctalk">dcTalk</a></li>
-            <li><a href="/category/the-lineup#tobymac-and-diverse-city">TobyMac and Diverse City</a></li>
             <li><a href="/category/the-lineup#newsboys">Newsboys</a></li>
-            <li><a href="/category/the-lineup#more-to-come">More to come</a></li>
+            <li><a href="/category/the-lineup#tobymac-and-diverse-city">TobyMac and Diverse City</a></li>
+            <li><a href="/category/the-lineup#kevin-max">Kevin Max</a></li>
+            <li><a href="/category/the-lineup#finding-favour">Finding Favour</a></li>
+            <li><a href="/category/the-lineup#capital-kings">Capital Kings</a></li>
+            <li><a href="/category/the-lineup#ryan-stevenson">Ryan Stevenson</a></li>
+            <li><a href="/category/the-lineup#hollyn">Hollyn</a></li>
           </ul>
         </li>
         <li class="dropdown">
@@ -68,7 +72,7 @@
         <li><a href="/contact">Contact</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
-        <li class="nav-date">July 14-18th 2017</li>
+        <li class="nav-date">July 11-15th 2017</li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->

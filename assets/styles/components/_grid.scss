@@ -8,3 +8,7 @@
 .sidebar {
   @include make-sm-column($sidebar-sm-columns);
 }
+.row {
+  margin-left: 0;
+  margin-right: 0;
+}
