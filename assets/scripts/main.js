@@ -75,3 +75,12 @@
   $(document).ready(UTIL.loadEvents);
 
 })(jQuery); // Fully reference jQuery after this point.
+
+jQuery(document).ready( function() {
+  jQuery('.close').on('click', function() {
+    jQuery('.alert').fadeOut();
+  });
+  jQuery('.alert').on('click', function() {
+    jQuery('.alert').fadeOut();
+  });
+});

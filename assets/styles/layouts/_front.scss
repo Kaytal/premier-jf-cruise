@@ -9,6 +9,61 @@
     z-index: -1;
   }
 }
+.alert {
+  margin-bottom: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  &-content {
+    background-color: $teal;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    p {
+      margin: 0;
+    }
+    img {
+      max-width: 100%;
+      margin-bottom: 2em;
+      display: none;
+    }
+    .close {
+      display: none;
+    }
+  }
+  @media (min-width: 767px) {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0,0,0,.5);
+    z-index: 99;
+    &-content {
+      position: fixed;
+      top: 100px;
+      transform: translateX(-50%);
+      left: 50%;
+      z-index: 100;
+      padding: 4em;
+      max-width: 50%;
+      border: 2px solid $darkteal;
+      .close {
+        position: absolute;
+        top: 0;
+        right: 0;
+        cursor: pointer;
+        padding: 1em;
+        display: block;
+      }
+      img {
+        display: block;
+      }
+    }
+  }
+}
+
+
 
 #front-page{
   padding: 0;

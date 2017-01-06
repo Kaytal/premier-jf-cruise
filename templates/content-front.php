@@ -1,3 +1,11 @@
+<div class="alert">
+  <div class="alert-content">
+    <div class="close">close (x)</div>
+    <img src="<?php echo get_template_directory_uri(); ?>/assets/images/brand.png" alt="<?php bloginfo('name'); ?>" />
+    <p class="lead">Register by January 31st, save $100</p>
+    <p class="small-lead">*limited rooms available, prices increase Feb. 1</p>
+  </div>
+</div>
 <div class="front-image">
   <img src="<?php echo get_template_directory_uri(); ?>/assets/images/NauticalDevice.png" alt="Nautical Device" class="img-responsive" />
   <video autoplay loop>
